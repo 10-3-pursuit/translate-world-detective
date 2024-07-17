@@ -1,7 +1,5 @@
-# Express Server Starter
+# Google Translate App
 
-This is a basic Express Starter that you can use to build out your backend applications.
+This is a simple Google Translate App that uses the Google Cloud Translate API to translate text from one language to another.
 
-It also includes the configuration for a database.
-
-You need only rename the `.env.example.md` file into a `.env` file and name the database to your postgresql name
+It is a simple app that allows you to translate text from one language to another.
