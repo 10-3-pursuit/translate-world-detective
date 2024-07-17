@@ -1,3 +1,8 @@
+
+.env
+translate.json
+
+
 # Logs
 logs
 *.log
